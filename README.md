@@ -66,8 +66,8 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 # Known issues 
 - Some issues that can be addressed in future projects:
   - Bright spots are considered faces sometimes
-  - Some side faces not being picked up as a face
-  - Not every frame is picked up as a face
+  - Some side faces not being picked up as a face 
+  - Not every frame is picked up as a face (but this could depend on frame rate and tuning)
   - Some faces with strange masks on (i.e, Captain America mask) is not being detected as a possible face
   - A very-much covered face is undetectable, is it possible to create face detection with question marks for a human to review
 
@@ -78,4 +78,7 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 #### Not all side-faces go un-detected
 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/0876000b-4421-4a66-abf7-61782f4f6b77)
+
+#### Example of masked face going un-detected
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8f9daa4a-2a2d-44db-b4d9-eef5a9b4b48b)
 
