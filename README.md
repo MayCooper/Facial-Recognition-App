@@ -26,7 +26,7 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/9ad1960f-dda3-4837-b09f-2d58a3a50494)
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4264b43b-3528-48df-8649-8bf652a7f124)
 
-#### Using PCA
+# Using PCA & Eigen Images
 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4e3aa470-8426-43fd-bc3d-9a36b4cf9538)
 
