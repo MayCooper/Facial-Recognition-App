@@ -82,3 +82,18 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 #### Example of masked face going un-detected
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8f9daa4a-2a2d-44db-b4d9-eef5a9b4b48b)
 
+#### Creating the Flask App base template: 
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/a6ddbd63-e6a5-44d9-b562-95d7f011c597)
+
+#### Gender classification code for the Flask App: 
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8dff94cd-6513-4f2e-b1f0-6fe9cd7d87ab)
+
+#### Homepage
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1917fa07-2b9c-468f-ac1d-1ee486031e87)
+
+#### After some basic styling, Flask app results:
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1bb2c0d3-37e1-490a-ad2b-75db13f787c0)
