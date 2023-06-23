@@ -8,25 +8,25 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 # A snapshot of the process 
 
 #### Downloading dependencies: 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/eb16b50b-33c3-449d-b6a8-9c7774201970)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/cd147e4f-c137-4efe-98c8-3a26c29488e7)
 
 # EDA
 #### Mapping out the image sizes
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/2fc278cc-d892-4154-82e8-6e5bdb6c16c5)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/fcba1ab8-b09a-41da-a2f6-d6866d470bb5)
 
 #### Gender distribution
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/f8523f3b-bb22-4008-a5b6-471d409110b8)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/ae2a9b00-02d0-4cce-b653-909abe8ec680)
 
 #### Exploring Grayscale for Facial Recognition
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/285e212e-016c-46a4-956d-57b6ab3ea19a)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/f4595748-fd0d-426e-9a34-ced5db6c7e0a)
 
 #### Creating a grayscale color map
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/f86f49d5-2d13-4da6-92c1-b022ac8d5f45)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/0e3dd4fa-95fa-46c5-a20a-2615f7366696)
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/3f446513-32a3-43e4-9a7a-d9753ab5892e)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/a53d1c32-c3ad-4671-bf20-73c766366f80)
 
 ####  Getting OpenCV, one of the most facial recognition modules
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/24aeb5be-a6df-4ade-89d1-740eaa53edbf)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/67d8d20f-2d29-4108-949f-c4dbacffdd94)
 
 #### Testing face detection
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/43e80bea-6641-4554-a39c-ce6dd9c5d4fa)
@@ -53,7 +53,7 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/6b67e188-f23d-4307-85d0-e0b0bf130e1d)
 
 #### Creating dataframe to represent the ML 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/2a0e5bb1-aef2-468d-8a70-924220d5b2ea)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/d098e928-0461-4bab-9094-eba12078a4bc)
 
 #### Flask app
 
@@ -71,28 +71,29 @@ Once developed, the face recognition model is integrated into a Flask applicatio
   - Some faces with strange masks on (i.e, Captain America mask) is not being detected as a possible face
   - A very-much covered face is undetectable, is it possible to create face detection with question marks for a human to review
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/9256edfc-c0b9-4116-ad97-67a39c54167e)
-
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/183c764d-5141-4cec-88bc-59aa8f410cbe)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/9508162f-9581-418e-84b4-3a1ada196a16)
 
 #### Not all side-faces go un-detected
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/0876000b-4421-4a66-abf7-61782f4f6b77)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4dc852f0-65f6-4100-9a49-a3fbb5c77e1f)
+
 
 #### Example of masked face going un-detected
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8f9daa4a-2a2d-44db-b4d9-eef5a9b4b48b)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/44937e0a-b35a-4c8d-87ba-a94a15b4914d)
 
 #### Creating the Flask App base template: 
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/a6ddbd63-e6a5-44d9-b562-95d7f011c597)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/a9ed8e5a-4d59-47f5-974a-0000ad644179)
 
 #### Gender classification code for the Flask App: 
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8dff94cd-6513-4f2e-b1f0-6fe9cd7d87ab)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/dcac4c9b-48f2-4a4e-956d-37f01871a020)
+
 
 #### Homepage code
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1917fa07-2b9c-468f-ac1d-1ee486031e87)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/6e7f7d85-b755-4e27-8e88-94b11d9966bd)
+
 
 #### Home page, on the Flask app
 
