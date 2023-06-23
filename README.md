@@ -57,7 +57,8 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 
 
 #### Checking ROC Curve for Model
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/6b67e188-f23d-4307-85d0-e0b0bf130e1d)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/dcc5e73d-00e1-48e4-af91-3fc562f7166a)
+
 
 #### Creating dataframe to represent the ML 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/d098e928-0461-4bab-9094-eba12078a4bc)
@@ -79,7 +80,7 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 
 #### Not all side-faces go un-detected
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4dc852f0-65f6-4100-9a49-a3fbb5c77e1f)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1a7bae3e-cc33-424e-b7cc-ffcad9c433f7)
 
 
 #### Example of masked face going un-detected
