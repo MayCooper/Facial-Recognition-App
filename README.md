@@ -29,25 +29,32 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/67d8d20f-2d29-4108-949f-c4dbacffdd94)
 
 #### Testing face detection
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/43e80bea-6641-4554-a39c-ce6dd9c5d4fa)
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/23389ac1-7470-4269-8495-19f15405308c)
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/03acad35-25f0-484d-bdbb-521665619c70)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/c1a6b69d-f9f0-424c-a6de-51b11a3dcc30)
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/fd8944cc-6c1b-42bd-9e3d-473aac99b4d9)
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/462e467a-5492-4b11-ad6b-473aba4fe5ec)
+
 
 #### We will now be extracting female and male faces and putting them into their respective categories
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/c2967730-3417-4a63-9f48-857c020780c7)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/d7b93715-47bf-498f-852a-d8f368e019ac)
 
-#### Cropping images
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/9ad1960f-dda3-4837-b09f-2d58a3a50494)
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4264b43b-3528-48df-8649-8bf652a7f124)
+#### Cropping images & grayscale
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/171bc918-ce6d-4200-a5ff-5e516b72d84d)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/b073d323-4afa-4e0e-bdaa-229263c561ab)
+
 
 # Using PCA & Eigen Images
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/4e3aa470-8426-43fd-bc3d-9a36b4cf9538)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/bfec2af5-afa4-4e84-89ef-aaea325b963b)
+
 
 #### Using GridSearchCV for looping through params for the ML model
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/e2a8ca66-f643-48d3-8744-39f686ad319e)
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/bece8307-46c1-4cf1-a7c2-1c108065e158)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/599f48f8-0acd-4cd4-ad06-674555282bb3)
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/903922fd-0b2a-4255-b732-0979598aa415)
+
 
 #### Checking ROC Curve for Model
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/6b67e188-f23d-4307-85d0-e0b0bf130e1d)
@@ -55,13 +62,10 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 #### Creating dataframe to represent the ML 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/d098e928-0461-4bab-9094-eba12078a4bc)
 
-#### Flask app
-
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/50dbc46a-f252-4755-8052-44a13931efbe)
-
 # Unleashing Facial Recognition on Video
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/e7781f76-f7a3-465c-ae5f-4cd284caed05)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/ede90084-4b8c-4d5e-9ab8-68e9d127e580)
+
 
 # Known issues 
 - Some issues that can be addressed in future projects:
@@ -89,6 +93,11 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/dcac4c9b-48f2-4a4e-956d-37f01871a020)
 
+# Flask App 
+#### Beginning 
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/019eac4e-0bf9-4c36-9eac-5f485deee837)
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/999f4f8f-ac1f-4b92-8bb6-86b7a57a0ccd)
 
 #### Homepage code
 
