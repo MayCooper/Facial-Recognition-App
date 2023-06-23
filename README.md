@@ -96,24 +96,28 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 
 #### Home page, on the Flask app
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/a915e883-3723-43a9-8d85-e92a3e112335)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1492ebfe-1cbf-4325-983e-8606fb873a1a)
 
-#### After some basic styling, Flask app results:
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/1bb2c0d3-37e1-490a-ad2b-75db13f787c0)
+#### After some basic styling, Flask app look & feel:
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/9fa50027-3f6b-4318-91a5-7591ca66ace3)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/8336e3cc-e464-4056-9469-c82a7824e58d)
+
+
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/721f53a2-b0f2-40fa-851d-d1f3a4a84010)
+
 
 #### Testing the front-end gender classification model
 #### Choosing file:
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/256df335-8e82-4d24-ad02-3e82455a4ce9)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/7bab8f87-47e0-469d-bc3d-a4ab2d7166a9)
+
 
 #### Execution & Result:
 
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/02bacdd5-f834-4f88-9016-1d6c6f9c59a1)
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/2227ca63-da0f-4b20-a59b-b86e6eddc18c)
+
 
 #### Example of more results for females:
-![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/54af92e8-c4b9-4566-9646-80ce07d2e8ce)
 
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/ea7a434e-98c3-4dca-97d9-a12dd9ba6d89)
 
