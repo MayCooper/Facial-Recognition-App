@@ -124,5 +124,6 @@ Once developed, the face recognition model is integrated into a Flask applicatio
 ![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/82bc1982-f348-4199-b374-ac8de778f83b)
 
 
+![image](https://github.com/MayCooper/Facial-Recognition-App/assets/82129870/47bfad70-f6fe-487e-b475-1bb146194b62)
 
 
